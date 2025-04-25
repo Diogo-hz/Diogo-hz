@@ -5,7 +5,6 @@
 - 🌱 Cursando Egenharia de Software
 - 📫 Contate me no email: diogodossantoslima2021@gmail.com
 - 😄 Pronomes: ele/dele
-<p align="center">Techs</p>
 
 <p align="left">Techs</p>
 
