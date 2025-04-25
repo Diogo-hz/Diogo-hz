@@ -5,5 +5,12 @@
 - 🌱 Cursando Egenharia de Software
 - 📫 Contate me no email: diogodossantoslima2021@gmail.com
 - 😄 Pronomes: ele/dele
-- ⚡ Fun fact: ...
--->
+ <div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Diogo-hz&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=midnight-purple&locale=pt-br&hide_border=false&order=1" height="150" alt="stats graph"  />
+  <img src="https://streak-stats.demolab.com?user=Diogo-hz&locale=en&mode=daily&theme=midnight-purple&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph"  />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Diogo-hz&radius=16&theme=high-contrast&area=true&order=5" height="300" alt="activity-graph graph"  />
+</div>
+
+###
+  
+
